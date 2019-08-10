@@ -1,0 +1,47 @@
+body{
+	font-family: Verdana,Geneva,Arival,sans-serif;
+	font-size: medium;
+	font-weight:bold;
+	line-height: 1.5em;
+}
+
+pre{
+	font-family: Verdana,Geneva,Arival,sans-serif;
+	font-size: medium;
+	font-weight:bold;
+	line-height: 1.5em;
+}	
+
+#title{
+	background-color: blue;
+	text-align: center;
+	padding: 20px;	
+}
+
+#infor{
+	background-color:white;
+	padding: 20px;
+	width:55%;
+
+}
+
+#list{
+	background-color: #CCC;
+	text-align: center;
+	padding: 10px;
+	float:left;
+}
+
+.item{
+	width:100px;
+	height:100px;
+}
+
+.item2{
+	padding:10px;
+	height:100px;
+}
+
+h1{
+	font-size: 200%;
+}
